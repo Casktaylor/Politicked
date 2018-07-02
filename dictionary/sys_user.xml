@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="ref_ac_columns_search=true,global_search_config_handler=UserConfig,all_tables.text_index_translations=true,ref_ac_order_by=name,ref_ac_columns=email,display_image=photo,ref_auto_completer=AJAXTableCompleter,iterativeDelete=true,metadata_link_exempt=true" create_roles="user_admin" defaultsort="-1" dynamic_creation_script="dynamicUserCreation(current, value);" label="User" max_length="40" name="sys_user" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="City Council" max_length="40" name="x_41992_politicked_city_council" type="string"/>
+        <element label="Congressional" max_length="3" name="x_41992_politicked_congressional" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="County Council" max_length="40" name="x_41992_politicked_county_council" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="County ID" max_length="40" name="x_41992_politicked_county_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="House Number" max_length="40" name="x_41992_politicked_house_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Local School Board" max_length="40" name="x_41992_politicked_local_school_board" type="string"/>
+        <element label="Original Registration Date" max_length="40" name="x_41992_politicked_original_registration_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Party" max_length="40" name="x_41992_politicked_party" type="string">
+            <choice>
+                <element label="American" sequence="0" value="American"/>
+                <element label="Constitution" sequence="0" value="Constitution"/>
+                <element label="Democratic" sequence="0" value="Democratic"/>
+                <element label="Desert Greens" sequence="0" value="Desert Greens"/>
+                <element label="Independent Patriot Party of Utah" sequence="0" value="Independent Patriot Party of Utah"/>
+                <element label="Independents for Economic Recovery" sequence="0" value="Independents for Economic Recovery"/>
+                <element label="Personal Choice" sequence="0" value="Personal Choice"/>
+                <element label="Reform" sequence="0" value="Reform"/>
+                <element label="Republican" sequence="0" value="Republican"/>
+                <element label="United Utah" sequence="0" value="United Utah"/>
+                <element label="Utah Justice Party" sequence="0" value="Utah Justice Party"/>
+                <element label="Unaffiliated" sequence="1" value="Unaffiliated"/>
+                <element label="Independent American" sequence="2" value="Independent American"/>
+                <element label="Libertarian" sequence="3" value="Libertarian"/>
+                <element label="Independent" sequence="4" value="Independent"/>
+                <element label="Natural Law" sequence="5" value="Natural Law"/>
+                <element label="Other" sequence="6" value="Other"/>
+                <element label="Green" sequence="7" value="Green"/>
+            </choice>
+        </element>
+        <element label="Pricinct" max_length="32" name="x_41992_politicked_pricinct" reference="x_41992_politicked_pricinct_data" type="reference"/>
+        <element label="Registration Date" max_length="40" name="x_41992_politicked_registration_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="State House" max_length="40" name="x_41992_politicked_state_house" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State School Board" max_length="40" name="x_41992_politicked_state_school_board" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State Senate" max_length="40" name="x_41992_politicked_state_senate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Street Type" max_length="40" name="x_41992_politicked_street_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Unit Number" max_length="40" name="x_41992_politicked_unit_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Unit Type" max_length="40" name="x_41992_politicked_unit_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Voter ID" max_length="40" name="x_41992_politicked_voter_id" type="string"/>
+        <index name="index">
+            <element name="x_41992_politicked_pricinct"/>
+        </index>
+        <index name="index2">
+            <element name="x_41992_politicked_voter_id"/>
+        </index>
+    </element>
+</database>

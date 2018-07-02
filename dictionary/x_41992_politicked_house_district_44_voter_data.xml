@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="House District 44 Voter Data" max_length="40" name="x_41992_politicked_house_district_44_voter_data" type="collection">
+        <element attributes="import_attribute_name=10/2/01" label="10/2/01" max_length="40" name="u_10_2_01" type="glide_date"/>
+        <element attributes="import_attribute_name=10/4/05" label="10/4/05" max_length="40" name="u_10_4_05" type="glide_date"/>
+        <element attributes="import_attribute_name=10/5/99" label="10/5/99" max_length="40" name="u_10_5_99" type="glide_date"/>
+        <element attributes="import_attribute_name=10/7/03" label="10/7/03" max_length="40" name="u_10_7_03" type="glide_date"/>
+        <element attributes="import_attribute_name=11/2/04" label="11/2/04" max_length="40" name="u_11_2_04" type="glide_date"/>
+        <element attributes="import_attribute_name=11/2/10" label="11/2/10" max_length="40" name="u_11_2_10" type="glide_date"/>
+        <element attributes="import_attribute_name=11/2/99" label="11/2/99" max_length="40" name="u_11_2_99" type="glide_date"/>
+        <element attributes="import_attribute_name=11/3/15" label="11/3/15" max_length="40" name="u_11_3_15" type="glide_date"/>
+        <element attributes="import_attribute_name=11/4/03" label="11/4/03" max_length="40" name="u_11_4_03" type="glide_date"/>
+        <element attributes="import_attribute_name=11/4/08" label="11/4/08" max_length="40" name="u_11_4_08" type="glide_date"/>
+        <element attributes="import_attribute_name=11/4/09" label="11/4/09" max_length="40" name="u_11_4_09" type="glide_date"/>
+        <element attributes="import_attribute_name=11/4/14" label="11/4/14" max_length="40" name="u_11_4_14" type="glide_date"/>
+        <element attributes="import_attribute_name=11/5/02" label="11/5/02" max_length="40" name="u_11_5_02" type="glide_date"/>
+        <element attributes="import_attribute_name=11/5/13" label="11/5/13" max_length="40" name="u_11_5_13" type="glide_date"/>
+        <element attributes="import_attribute_name=11/6/01" label="11/6/01" max_length="40" name="u_11_6_01" type="glide_date"/>
+        <element attributes="import_attribute_name=11/6/07" label="11/6/07" max_length="40" name="u_11_6_07" type="glide_date"/>
+        <element attributes="import_attribute_name=11/6/12" label="11/6/12" max_length="40" name="u_11_6_12" type="glide_date"/>
+        <element attributes="import_attribute_name=11/6/18,edge_encryption_enabled=true" label="11/6/18" max_length="40" name="u_11_6_18" type="string"/>
+        <element attributes="import_attribute_name=11/7/00" label="11/7/00" max_length="40" name="u_11_7_00" type="glide_date"/>
+        <element attributes="import_attribute_name=11/7/06" label="11/7/06" max_length="40" name="u_11_7_06" type="glide_date"/>
+        <element attributes="import_attribute_name=11/7/17" label="11/7/17" max_length="40" name="u_11_7_17" type="glide_date"/>
+        <element attributes="import_attribute_name=11/8/05,edge_encryption_enabled=true" label="11/8/05" max_length="40" name="u_11_8_05" type="string"/>
+        <element attributes="import_attribute_name=11/8/11" label="11/8/11" max_length="40" name="u_11_8_11" type="glide_date"/>
+        <element attributes="import_attribute_name=11/8/16" label="11/8/16" max_length="40" name="u_11_8_16" type="glide_date"/>
+        <element attributes="import_attribute_name=2/4/03" label="2/4/03" max_length="40" name="u_2_4_03" type="glide_date"/>
+        <element attributes="import_attribute_name=2/5/08" label="2/5/08" max_length="40" name="u_2_5_08" type="glide_date"/>
+        <element attributes="import_attribute_name=2/6/01" label="2/6/01" max_length="40" name="u_2_6_01" type="glide_date"/>
+        <element attributes="import_attribute_name=5/2/00" label="5/2/00" max_length="40" name="u_5_2_00" type="glide_date"/>
+        <element attributes="import_attribute_name=5/4/04" label="5/4/04" max_length="40" name="u_5_4_04" type="glide_date"/>
+        <element attributes="import_attribute_name=5/4/99" label="5/4/99" max_length="40" name="u_5_4_99" type="glide_date"/>
+        <element attributes="import_attribute_name=6/22/04" label="6/22/04" max_length="40" name="u_6_22_04" type="glide_date"/>
+        <element attributes="import_attribute_name=6/22/10" label="6/22/10" max_length="40" name="u_6_22_10" type="glide_date"/>
+        <element attributes="import_attribute_name=6/24/08" label="6/24/08" max_length="40" name="u_6_24_08" type="glide_date"/>
+        <element attributes="import_attribute_name=6/24/14" label="6/24/14" max_length="40" name="u_6_24_14" type="glide_date"/>
+        <element attributes="import_attribute_name=6/25/02" label="6/25/02" max_length="40" name="u_6_25_02" type="glide_date"/>
+        <element attributes="import_attribute_name=6/26/07,edge_encryption_enabled=true" label="6/26/07" max_length="40" name="u_6_26_07" type="string"/>
+        <element attributes="import_attribute_name=6/26/12" label="6/26/12" max_length="40" name="u_6_26_12" type="glide_date"/>
+        <element attributes="import_attribute_name=6/26/18,edge_encryption_enabled=true" label="6/26/18" max_length="40" name="u_6_26_18" type="string"/>
+        <element attributes="import_attribute_name=6/27/00" label="6/27/00" max_length="40" name="u_6_27_00" type="glide_date"/>
+        <element attributes="import_attribute_name=6/27/06" label="6/27/06" max_length="40" name="u_6_27_06" type="glide_date"/>
+        <element attributes="import_attribute_name=6/28/16" label="6/28/16" max_length="40" name="u_6_28_16" type="glide_date"/>
+        <element attributes="import_attribute_name=8/11/15" label="8/11/15" max_length="40" name="u_8_11_15" type="glide_date"/>
+        <element attributes="import_attribute_name=8/13/13" label="8/13/13" max_length="40" name="u_8_13_13" type="glide_date"/>
+        <element attributes="import_attribute_name=8/15/17" label="8/15/17" max_length="40" name="u_8_15_17" type="glide_date"/>
+        <element attributes="import_attribute_name=8/3/04" label="8/3/04" max_length="40" name="u_8_3_04" type="glide_date"/>
+        <element attributes="import_attribute_name=8/3/99" label="8/3/99" max_length="40" name="u_8_3_99" type="glide_date"/>
+        <element attributes="import_attribute_name=8/5/03" label="8/5/03" max_length="40" name="u_8_5_03" type="glide_date"/>
+        <element attributes="import_attribute_name=9/11/07" label="9/11/07" max_length="40" name="u_9_11_07" type="glide_date"/>
+        <element attributes="import_attribute_name=9/13/11" label="9/13/11" max_length="40" name="u_9_13_11" type="glide_date"/>
+        <element attributes="import_attribute_name=9/15/09" label="9/15/09" max_length="40" name="u_9_15_09" type="glide_date"/>
+        <element attributes="import_attribute_name=City,edge_encryption_enabled=true" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="import_attribute_name=City Council,edge_encryption_enabled=true" label="City Council" max_length="40" name="u_city_council" type="string"/>
+        <element attributes="import_attribute_name=Congressional" label="Congressional" max_length="40" name="u_congressional" type="integer"/>
+        <element attributes="import_attribute_name=County Council" label="County Council" max_length="40" name="u_county_council" type="integer"/>
+        <element attributes="import_attribute_name=County ID,edge_encryption_enabled=true" label="County ID" max_length="40" name="u_county_id" type="string"/>
+        <element attributes="import_attribute_name=Direction Prefix,edge_encryption_enabled=true" label="Direction Prefix" max_length="40" name="u_direction_prefix" type="string"/>
+        <element attributes="import_attribute_name=Direction Suffix,edge_encryption_enabled=true" label="Direction Suffix" max_length="40" name="u_direction_suffix" type="string"/>
+        <element attributes="import_attribute_name=First Name,edge_encryption_enabled=true" label="First Name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="import_attribute_name=House Number" label="House Number" max_length="40" name="u_house_number" type="integer"/>
+        <element attributes="import_attribute_name=House Number Suffix,edge_encryption_enabled=true" label="House Number Suffix" max_length="40" name="u_house_number_suffix" type="string"/>
+        <element attributes="import_attribute_name=How Voted,edge_encryption_enabled=true" label="How Voted" max_length="40" name="u_how_voted" type="string"/>
+        <element attributes="import_attribute_name=How Voted (AK),edge_encryption_enabled=true" label="How Voted (AK)" max_length="40" name="u_how_voted__ak_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (AM),edge_encryption_enabled=true" label="How Voted (AM)" max_length="40" name="u_how_voted__am_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (AO),edge_encryption_enabled=true" label="How Voted (AO)" max_length="40" name="u_how_voted__ao_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (AQ),edge_encryption_enabled=true" label="How Voted (AQ)" max_length="40" name="u_how_voted__aq_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (AS),edge_encryption_enabled=true" label="How Voted (AS)" max_length="40" name="u_how_voted__as_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (AU),edge_encryption_enabled=true" label="How Voted (AU)" max_length="40" name="u_how_voted__au_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (AW),edge_encryption_enabled=true" label="How Voted (AW)" max_length="40" name="u_how_voted__aw_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (AY),edge_encryption_enabled=true" label="How Voted (AY)" max_length="40" name="u_how_voted__ay_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BA),edge_encryption_enabled=true" label="How Voted (BA)" max_length="40" name="u_how_voted__ba_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BC),edge_encryption_enabled=true" label="How Voted (BC)" max_length="40" name="u_how_voted__bc_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BE),edge_encryption_enabled=true" label="How Voted (BE)" max_length="40" name="u_how_voted__be_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BG),edge_encryption_enabled=true" label="How Voted (BG)" max_length="40" name="u_how_voted__bg_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BI),edge_encryption_enabled=true" label="How Voted (BI)" max_length="40" name="u_how_voted__bi_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BK),edge_encryption_enabled=true" label="How Voted (BK)" max_length="40" name="u_how_voted__bk_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BM),edge_encryption_enabled=true" label="How Voted (BM)" max_length="40" name="u_how_voted__bm_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BO),edge_encryption_enabled=true" label="How Voted (BO)" max_length="40" name="u_how_voted__bo_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BQ),edge_encryption_enabled=true" label="How Voted (BQ)" max_length="40" name="u_how_voted__bq_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BS),edge_encryption_enabled=true" label="How Voted (BS)" max_length="40" name="u_how_voted__bs_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BU),edge_encryption_enabled=true" label="How Voted (BU)" max_length="40" name="u_how_voted__bu_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BW),edge_encryption_enabled=true" label="How Voted (BW)" max_length="40" name="u_how_voted__bw_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (BY),edge_encryption_enabled=true" label="How Voted (BY)" max_length="40" name="u_how_voted__by_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CA),edge_encryption_enabled=true" label="How Voted (CA)" max_length="40" name="u_how_voted__ca_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CC),edge_encryption_enabled=true" label="How Voted (CC)" max_length="40" name="u_how_voted__cc_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CE),edge_encryption_enabled=true" label="How Voted (CE)" max_length="40" name="u_how_voted__ce_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CG),edge_encryption_enabled=true" label="How Voted (CG)" max_length="40" name="u_how_voted__cg_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CI),edge_encryption_enabled=true" label="How Voted (CI)" max_length="40" name="u_how_voted__ci_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CK),edge_encryption_enabled=true" label="How Voted (CK)" max_length="40" name="u_how_voted__ck_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CM),edge_encryption_enabled=true" label="How Voted (CM)" max_length="40" name="u_how_voted__cm_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CO),edge_encryption_enabled=true" label="How Voted (CO)" max_length="40" name="u_how_voted__co_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CQ),edge_encryption_enabled=true" label="How Voted (CQ)" max_length="40" name="u_how_voted__cq_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CS),edge_encryption_enabled=true" label="How Voted (CS)" max_length="40" name="u_how_voted__cs_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CU),edge_encryption_enabled=true" label="How Voted (CU)" max_length="40" name="u_how_voted__cu_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CW),edge_encryption_enabled=true" label="How Voted (CW)" max_length="40" name="u_how_voted__cw_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (CY),edge_encryption_enabled=true" label="How Voted (CY)" max_length="40" name="u_how_voted__cy_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DA),edge_encryption_enabled=true" label="How Voted (DA)" max_length="40" name="u_how_voted__da_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DC),edge_encryption_enabled=true" label="How Voted (DC)" max_length="40" name="u_how_voted__dc_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DE),edge_encryption_enabled=true" label="How Voted (DE)" max_length="40" name="u_how_voted__de_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DG),edge_encryption_enabled=true" label="How Voted (DG)" max_length="40" name="u_how_voted__dg_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DI),edge_encryption_enabled=true" label="How Voted (DI)" max_length="40" name="u_how_voted__di_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DK),edge_encryption_enabled=true" label="How Voted (DK)" max_length="40" name="u_how_voted__dk_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DM),edge_encryption_enabled=true" label="How Voted (DM)" max_length="40" name="u_how_voted__dm_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DO),edge_encryption_enabled=true" label="How Voted (DO)" max_length="40" name="u_how_voted__do_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DQ),edge_encryption_enabled=true" label="How Voted (DQ)" max_length="40" name="u_how_voted__dq_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DS),edge_encryption_enabled=true" label="How Voted (DS)" max_length="40" name="u_how_voted__ds_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DU),edge_encryption_enabled=true" label="How Voted (DU)" max_length="40" name="u_how_voted__du_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DW),edge_encryption_enabled=true" label="How Voted (DW)" max_length="40" name="u_how_voted__dw_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (DY),edge_encryption_enabled=true" label="How Voted (DY)" max_length="40" name="u_how_voted__dy_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (EA),edge_encryption_enabled=true" label="How Voted (EA)" max_length="40" name="u_how_voted__ea_" type="string"/>
+        <element attributes="import_attribute_name=How Voted (EC),edge_encryption_enabled=true" label="How Voted (EC)" max_length="40" name="u_how_voted__ec_" type="string"/>
+        <element attributes="import_attribute_name=Last Name,edge_encryption_enabled=true" label="Last Name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="import_attribute_name=Local School Board,edge_encryption_enabled=true" label="Local School Board" max_length="40" name="u_local_school_board" type="string"/>
+        <element attributes="import_attribute_name=Mailing Address,edge_encryption_enabled=true" label="Mailing Address" max_length="40" name="u_mailing_address" type="string"/>
+        <element attributes="state  zip=true,import_attribute_name=Mailing city,edge_encryption_enabled=true" label="Mailing city, state  zip" max_length="40" name="u_mailing_city__state__zip" type="string"/>
+        <element attributes="import_attribute_name=Middle Name,edge_encryption_enabled=true" label="Middle Name" max_length="40" name="u_middle_name" type="string"/>
+        <element attributes="import_attribute_name=Name Suffix,edge_encryption_enabled=true" label="Name Suffix" max_length="40" name="u_name_suffix" type="string"/>
+        <element attributes="import_attribute_name=Original Registration Date" label="Original Registration Date" max_length="40" name="u_original_registration_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Party,edge_encryption_enabled=true" label="Party" max_length="40" name="u_party" type="string"/>
+        <element attributes="import_attribute_name=Permanent Absentee,edge_encryption_enabled=true" label="Permanent Absentee" max_length="40" name="u_permanent_absentee" type="string"/>
+        <element attributes="import_attribute_name=Phone,edge_encryption_enabled=true" label="Phone" max_length="40" name="u_phone" type="string"/>
+        <element attributes="import_attribute_name=Precinct,edge_encryption_enabled=true" label="Precinct" max_length="40" name="u_precinct" type="string"/>
+        <element attributes="import_attribute_name=Registration Date" label="Registration Date" max_length="40" name="u_registration_date" type="glide_date"/>
+        <element attributes="import_attribute_name=State House" label="State House" max_length="40" name="u_state_house" type="integer"/>
+        <element attributes="import_attribute_name=State School Board" label="State School Board" max_length="40" name="u_state_school_board" type="integer"/>
+        <element attributes="import_attribute_name=State Senate" label="State Senate" max_length="40" name="u_state_senate" type="integer"/>
+        <element attributes="import_attribute_name=Status,edge_encryption_enabled=true" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="import_attribute_name=Street,edge_encryption_enabled=true" label="Street" max_length="40" name="u_street" type="string"/>
+        <element attributes="import_attribute_name=Street Type,edge_encryption_enabled=true" label="Street Type" max_length="40" name="u_street_type" type="string"/>
+        <element attributes="import_attribute_name=Unit Number,edge_encryption_enabled=true" label="Unit Number" max_length="40" name="u_unit_number" type="string"/>
+        <element attributes="import_attribute_name=Unit Type,edge_encryption_enabled=true" label="Unit Type" max_length="40" name="u_unit_type" type="string"/>
+        <element attributes="import_attribute_name=UOCAVA,edge_encryption_enabled=true" label="UOCAVA" max_length="40" name="u_uocava" type="string"/>
+        <element attributes="import_attribute_name=Voter ID,edge_encryption_enabled=true" label="Voter ID" max_length="40" name="u_voter_id" type="string"/>
+        <element attributes="import_attribute_name=Zip,edge_encryption_enabled=true" label="Zip" max_length="40" name="u_zip" type="string"/>
+    </element>
+</database>

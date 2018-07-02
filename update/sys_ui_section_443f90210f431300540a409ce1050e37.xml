@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="443f90210f431300540a409ce1050e37" sys_domain="global" table="sys_user" version="3" view="political_affiliation">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <position>0</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>a699f9690f471300540a409ce1050e76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>1</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2a99f9690f471300540a409ce1050e76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>middle_name</element>
+            <position>2</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>aa99f9690f471300540a409ce1050e76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>3</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2e99f9690f471300540a409ce1050e76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_voter_id</element>
+            <position>4</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>ae99f9690f471300540a409ce1050e76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_pricinct</element>
+            <position>5</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2299f9690f471300540a409ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_county_council</element>
+            <position>6</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>a299f9690f471300540a409ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_county_id</element>
+            <position>7</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2699f9690f471300540a409ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_city_council</element>
+            <position>8</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>a699f9690f471300540a409ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_house_number</element>
+            <position>9</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2a99f9690f471300540a409ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>street</element>
+            <position>10</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>aa99f9690f471300540a409ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_street_type</element>
+            <position>11</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2e99f9690f471300540a409ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_unit_type</element>
+            <position>12</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>ae99f9690f471300540a409ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_unit_number</element>
+            <position>13</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2299f9690f471300540a409ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>14</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>a299f9690f471300540a409ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>15</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2699f9690f471300540a409ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notification</element>
+            <position>16</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>a699f9690f471300540a409ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_party</element>
+            <position>17</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2a99f9690f471300540a409ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_congressional</element>
+            <position>18</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>aa99f9690f471300540a409ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_state_house</element>
+            <position>19</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2e99f9690f471300540a409ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_state_senate</element>
+            <position>20</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>ae99f9690f471300540a409ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_state_school_board</element>
+            <position>21</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2299f9690f471300540a409ce1050e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_local_school_board</element>
+            <position>22</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>a299f9690f471300540a409ce1050e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_format</element>
+            <position>23</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2699f9690f471300540a409ce1050e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_original_registration_date</element>
+            <position>24</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>a699f9690f471300540a409ce1050e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_registration_date</element>
+            <position>25</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2a99f9690f471300540a409ce1050e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>26</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>aa99f9690f471300540a409ce1050e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>27</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2e99f9690f471300540a409ce1050e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_phone</element>
+            <position>28</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>ae99f9690f471300540a409ce1050e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>photo</element>
+            <position>29</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2299f9690f471300540a409ce1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>geolocation_tracked</element>
+            <position>30</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>a299f9690f471300540a409ce1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>31</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>2699f9690f471300540a409ce1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>32</position>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:15:32</sys_created_on>
+            <sys_id>a699f9690f471300540a409ce1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="cc3f90210f431300540a409ce1050e2f">443f90210f431300540a409ce1050e37</sys_ui_section>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:15:32</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:40:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>443f90210f431300540a409ce1050e37</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Politicked" source="x_41992_politicked">11aec0610f031300540a409ce1050ead</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Politicked">11aec0610f031300540a409ce1050ead</sys_scope>
+            <sys_update_name>sys_ui_section_443f90210f431300540a409ce1050e37</sys_update_name>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:40:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Political Affiliation" name="political_affiliation">cc3f90210f431300540a409ce1050e2f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_41992_politicked_pricinct_data" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Early Voting</label>
+            <language>en</language>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sequence/>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:29:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fac98ad0f031300540a409ce1050eb3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:29:37</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In-Office</label>
+            <language>en</language>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sequence/>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:29:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90bc14ad0f031300540a409ce1050ec7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:29:42</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Polling</label>
+            <language>en</language>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sequence/>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:29:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>849c5cad0f031300540a409ce1050e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:29:17</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vote by Mail</label>
+            <language>en</language>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sequence/>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:29:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9ac58ad0f031300540a409ce1050eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:29:31</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vote Centers</label>
+            <language>en</language>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sequence/>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:29:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f9cd8ad0f031300540a409ce1050e53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:29:24</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Early Voting</label>
+            <language>en</language>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fb964690f431300540a409ce1050e7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:26:37</sys_updated_on>
+            <value>Early Voting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In-Office</label>
+            <language>en</language>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3b964690f431300540a409ce1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:26:37</sys_updated_on>
+            <value>In-Office</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Polling</label>
+            <language>en</language>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:26:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3b964690f431300540a409ce1050e71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:26:36</sys_updated_on>
+            <value>Polling</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Total</label>
+            <language>en</language>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebb964690f431300540a409ce1050ea8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:26:37</sys_updated_on>
+            <value>Total</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vote By Mail</label>
+            <language>en</language>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5bb964690f431300540a409ce1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:26:37</sys_updated_on>
+            <value>Vote By Mail</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vote Centers</label>
+            <language>en</language>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:26:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7b964690f431300540a409ce1050e76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:26:37</sys_updated_on>
+            <value>Vote Centers</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_41992_politicked_pricinct_data</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:29:17</sys_created_on>
+            <sys_id>a79c98ad0f031300540a409ce1050eac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Politicked" source="x_41992_politicked">11aec0610f031300540a409ce1050ead</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Politicked">11aec0610f031300540a409ce1050ead</sys_scope>
+            <sys_update_name>sys_choice_x_41992_politicked_pricinct_data_type</sys_update_name>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:29:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

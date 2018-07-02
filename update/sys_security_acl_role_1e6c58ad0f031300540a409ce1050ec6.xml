@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>steven.taylor</sys_created_by>
+        <sys_created_on>2018-07-01 19:28:23</sys_created_on>
+        <sys_id>1e6c58ad0f031300540a409ce1050ec6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_41992_politicked_pricinct_data.x_41992_politicked.pricinct_data_user</sys_name>
+        <sys_package display_value="Politicked" source="x_41992_politicked">11aec0610f031300540a409ce1050ead</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Politicked">11aec0610f031300540a409ce1050ead</sys_scope>
+        <sys_security_acl display_value="x_41992_politicked_pricinct_data">9e6c58ad0f031300540a409ce1050ec2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1e6c58ad0f031300540a409ce1050ec6</sys_update_name>
+        <sys_updated_by>steven.taylor</sys_updated_by>
+        <sys_updated_on>2018-07-01 19:28:23</sys_updated_on>
+        <sys_user_role display_value="x_41992_politicked.pricinct_data_user" name="x_41992_politicked.pricinct_data_user">c49bdca50f031300540a409ce1050e14</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

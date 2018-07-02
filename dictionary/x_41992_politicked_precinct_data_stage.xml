@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Precinct Data stage" max_length="40" name="x_41992_politicked_precinct_data_stage" type="collection">
+        <element attributes="import_attribute_name=Bruce Cutler" label="Bruce Cutler" max_length="40" name="u_bruce_cutler" type="integer"/>
+        <element attributes="import_attribute_name=Bruce %,edge_encryption_enabled=true" label="Bruce %" max_length="40" name="u_bruce__" type="string"/>
+        <element attributes="import_attribute_name=Cards Cast" label="Cards Cast" max_length="40" name="u_cards_cast" type="integer"/>
+        <element attributes="import_attribute_name=Christine Passey (DEM)" label="Christine Passey (DEM)" max_length="40" name="u_christine_passey__dem_" type="integer"/>
+        <element attributes="import_attribute_name=Christine %,edge_encryption_enabled=true" label="Christine %" max_length="40" name="u_christine__" type="string"/>
+        <element attributes="import_attribute_name=Precinct,edge_encryption_enabled=true" label="Precinct" max_length="40" name="u_precinct" type="string"/>
+        <element attributes="import_attribute_name=Reg. Voters" label="Reg. Voters" max_length="40" name="u_reg__voters" type="integer"/>
+        <element attributes="import_attribute_name=Total Votes" label="Total Votes" max_length="40" name="u_total_votes" type="integer"/>
+        <element attributes="import_attribute_name=Type,edge_encryption_enabled=true" label="Type" max_length="40" name="u_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Year" max_length="40" name="u_year" type="string"/>
+    </element>
+</database>

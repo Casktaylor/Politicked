@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="Voter History" max_length="40" name="x_41992_politicked_voter_history" type="collection">
+        <element label="Voting Method" max_length="40" name="voting_method" type="string"/>
+        <element label="Year" max_length="40" name="year" type="string"/>
+    </element>
+</database>

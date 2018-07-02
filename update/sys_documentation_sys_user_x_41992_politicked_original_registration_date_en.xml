@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="x_41992_politicked_original_registration_date" label="Original Registration Date" language="en" table="sys_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_original_registration_date</element>
+            <help/>
+            <hint/>
+            <label>Original Registration Date</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <plural>Original Registration Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-02 02:07:03</sys_created_on>
+            <sys_id>52a7f5210f471300540a409ce1050eae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Original Registration Date</sys_name>
+            <sys_package display_value="Politicked" source="x_41992_politicked">11aec0610f031300540a409ce1050ead</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Politicked">11aec0610f031300540a409ce1050ead</sys_scope>
+            <sys_update_name>sys_documentation_sys_user_x_41992_politicked_original_registration_date_en</sys_update_name>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-02 02:07:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_41992_politicked.precinct_number_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>precinct_number_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>steven.taylor</sys_created_by>
+        <sys_created_on>2018-07-01 20:39:01</sys_created_on>
+        <sys_id>b49ca4e90f431300540a409ce1050e6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_41992_politicked.precinct_number_user</sys_name>
+        <sys_package display_value="Politicked" source="x_41992_politicked">11aec0610f031300540a409ce1050ead</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Politicked">11aec0610f031300540a409ce1050ead</sys_scope>
+        <sys_update_name>sys_user_role_b49ca4e90f431300540a409ce1050e6b</sys_update_name>
+        <sys_updated_by>steven.taylor</sys_updated_by>
+        <sys_updated_on>2018-07-01 20:39:01</sys_updated_on>
+    </sys_user_role>
+</record_update>

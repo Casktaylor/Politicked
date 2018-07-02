@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="x_41992_politicked_party" table="sys_user" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>American</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:50:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd2fe4ad0f431300540a409ce1050e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:50:13</sys_updated_on>
+            <value>American</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Constitution</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>421fe0ad0f431300540a409ce1050e01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:50:00</sys_updated_on>
+            <value>Constitution</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Democratic</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80efdc210f431300540a409ce1050e56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:43:31</sys_updated_on>
+            <value>Democratic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Desert Greens</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:53:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5bdfaca10f831300540a409ce1050ec0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:53:22</sys_updated_on>
+            <value>Desert Greens</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Independent Patriot Party of Utah</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:54:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2030b8250f831300540a409ce1050e0a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:54:49</sys_updated_on>
+            <value>Independent Patriot Party of Utah</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Independents for Economic Recovery</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:55:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e50b4650f831300540a409ce1050e96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:55:32</sys_updated_on>
+            <value>Independents for Economic Recovery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Personal Choice</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:50:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e83fecad0f431300540a409ce1050e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:50:28</sys_updated_on>
+            <value>Personal Choice</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reform</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:55:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e46078650f831300540a409ce1050ebd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:55:39</sys_updated_on>
+            <value>Reform</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Republican</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:49:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a0fec6d0f431300540a409ce1050ee4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:49:47</sys_updated_on>
+            <value>Republican</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>United Utah</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:59:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a3178290f831300540a409ce1050ec5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:59:19</sys_updated_on>
+            <value>United Utah</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Utah Justice Party</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>0</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 20:52:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c9fe0610f831300540a409ce1050e29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 20:52:04</sys_updated_on>
+            <value>Utah Justice Party</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unaffiliated</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>1</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0cefd4610f431300540a409ce1050e0b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:43:31</sys_updated_on>
+            <value>Unaffiliated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Independent American</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>2</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00efd4610f431300540a409ce1050e14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:43:31</sys_updated_on>
+            <value>Independent American</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Libertarian</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>3</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04efd4610f431300540a409ce1050e1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:43:31</sys_updated_on>
+            <value>Libertarian</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Independent</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>4</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08efd4610f431300540a409ce1050e24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:43:31</sys_updated_on>
+            <value>Independent</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Natural Law</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>5</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0cefd4610f431300540a409ce1050e2c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:43:31</sys_updated_on>
+            <value>Natural Law</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>6</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00efd4610f431300540a409ce1050e35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:43:31</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_41992_politicked_party</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Green</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>7</sequence>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04efd4610f431300540a409ce1050e3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:43:31</sys_updated_on>
+            <value>Green</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>x_41992_politicked_party</element>
+            <name>sys_user</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>steven.taylor</sys_created_by>
+            <sys_created_on>2018-07-01 19:43:31</sys_created_on>
+            <sys_id>84efd4610f431300540a409ce1050e0b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_41992_politicked_party</sys_name>
+            <sys_package display_value="Politicked" source="x_41992_politicked">11aec0610f031300540a409ce1050ead</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Politicked">11aec0610f031300540a409ce1050ead</sys_scope>
+            <sys_update_name>sys_choice_sys_user_x_41992_politicked_party</sys_update_name>
+            <sys_updated_by>steven.taylor</sys_updated_by>
+            <sys_updated_on>2018-07-01 19:43:31</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

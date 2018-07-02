@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Pricinct Data " max_length="40" name="x_41992_politicked_pricinct_data" type="collection">
+        <element label="Cards Cast" max_length="8" name="cards_cast" type="string"/>
+        <element label="Democratic %" max_length="40" name="democratic" type="string"/>
+        <element label="Democratic Candidate" max_length="32" name="democratic_candidate" reference="sys_user" type="reference"/>
+        <element label="Democrats" max_length="8" name="democrats" type="string"/>
+        <element label="Election year" max_length="40" name="election_year" type="string"/>
+        <element display="true" label="Precinct" max_length="32" name="precinct" reference="x_41992_politicked_precinct_number" type="reference"/>
+        <element label="Registered Voters" max_length="6" name="registered_voters" type="string"/>
+        <element label="Republican %" max_length="40" name="republican" type="string"/>
+        <element label="Republicans" max_length="8" name="republicans" type="string"/>
+        <element label="Republican Candidate" max_length="32" name="republican_candidate" reference="sys_user" type="reference"/>
+        <element label="Total Votes" max_length="8" name="total_votes" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="Early Voting"/>
+                <element label="In-Office"/>
+                <element label="Polling"/>
+                <element label="Vote by Mail"/>
+                <element label="Vote Centers"/>
+                <element label="Early Voting" sequence="0" value="Early Voting"/>
+                <element label="In-Office" sequence="0" value="In-Office"/>
+                <element label="Polling" sequence="0" value="Polling"/>
+                <element label="Total" sequence="0" value="Total"/>
+                <element label="Vote By Mail" sequence="0" value="Vote By Mail"/>
+                <element label="Vote Centers" sequence="0" value="Vote Centers"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="precinct"/>
+        </index>
+        <index name="index2">
+            <element name="democratic_candidate"/>
+        </index>
+        <index name="index3">
+            <element name="republican_candidate"/>
+        </index>
+    </element>
+</database>

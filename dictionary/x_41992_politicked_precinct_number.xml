@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Precinct Number" max_length="40" name="x_41992_politicked_precinct_number" type="collection">
+        <element display="true" label="Precinct" max_length="40" name="precinct" type="string"/>
+    </element>
+</database>

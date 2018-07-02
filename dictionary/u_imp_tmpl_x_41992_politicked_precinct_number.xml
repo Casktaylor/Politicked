@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 41992 Politicked Precinct Number" max_length="40" name="u_imp_tmpl_x_41992_politicked_precinct_number" type="collection">
+        <element attributes="import_attribute_name=Precinct,edge_encryption_enabled=true" label="Precinct" max_length="40" name="u_precinct" type="string"/>
+    </element>
+</database>
